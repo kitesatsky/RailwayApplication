@@ -1,0 +1,4 @@
+TheRailwayTrip.MainActivity, TheRailwayTrip;md5e3386d95932f91484ebebc788e37c72b.MainActivity
+TheRailwayTrip.MainActivity, TheRailwayTrip, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e3386d95932f91484ebebc788e37c72b.MainActivity
+TheRailwayTrip.MainActivity;md5e3386d95932f91484ebebc788e37c72b.MainActivity
+therailwaytrip.MainActivity;md5e3386d95932f91484ebebc788e37c72b.MainActivity

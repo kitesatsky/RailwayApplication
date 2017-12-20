@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Calligraphy\library_project_imports\bin\classes.jar;G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Xamarin.Android.Support.Annotations\library_project_imports\support-annotations.jar;G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\bin\classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Calligraphy\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Calligraphy\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Calligraphy.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>G:\Andoid Apps\TheRailwayTrip\TheRailwayTrip\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
